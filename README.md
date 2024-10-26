@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kacper</h1>
 <h3 align="center">🏛️ 2nd year ICT Student, at AGH University of Cracow.</h3>
 
-- 🔭 I’m currently working on: **improving fronend skills, learning new frameworks.**
+- 🔭 I’m currently working on: **improving frontend skills, learning new frameworks.**
 
 - 🌱 I’m currently learning **React, MySQL**
 
